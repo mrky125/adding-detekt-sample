@@ -1,0 +1,2 @@
+rootProject.name = "adding_detekt_sample"
+include ':app'
